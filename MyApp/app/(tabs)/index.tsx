@@ -41,8 +41,8 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     justifyContent: 'space-around',
     alignItems: 'center',
-    height: 60,
-    paddingTop: 20, // Aggiungiamo spazio sopra la barra per evitare la sovrapposizione con la StatusBar
+    height: 100,
+    paddingTop: 50, // Aggiungiamo spazio sopra la barra per evitare la sovrapposizione con la StatusBar
     backgroundColor: '#6200ea',
     borderBottomWidth: 1,
     borderBottomColor: '#ddd',
